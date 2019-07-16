@@ -74,12 +74,12 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:zhangchenchen/zhangchenchen.github.io.git
+  repository: git@github.com:Spadeslyn/Spadeslyn.github.io.git
   branch: master
 
-disqus_shortname: pekingzcc
+disqus_shortname: spades
 
-google_analytics: UA-92407570-1
+google_analytics: UA-143936189-1
 
 search:
   path: search.xml
